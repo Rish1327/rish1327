@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋,this is me Atul tiwaree</h1>
+<h1 align="center">Hello there , Its Rishabh coder for fun...</h1>
 <h3 align="center">Introduction ? Nah...just</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atultiwaree&label=Profile%20views&color=0e75b6&style=flat" alt="atultiwaree" /> </p>
@@ -15,17 +15,12 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 📝 I regularly write articles on [atulcodingstuff.blogspot.com](atulcodingstuff.blogspot.com)
-
 - 💬 Ask me about **react | nodejs | javascript | python | c++ | c**
 
-- 📫 How to reach me **tiw96@yahoo.com**
+- 📫 How to reach me **palrishbah480@gmail.com**
 
-- 🧐 Know my Developer Story @stackoverflow **<b>https://stackoverflow.com/story/atultiwaree<b>**
 
-- 📄 Know about my experiences [https://scait.in/myresume.pdf](https://scait.in/myresume.pdf)
-
-- ⚡ Fun fact **I'm lazy programmer!**
+- ⚡ Fun fact **I'm a programmer for fun!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -33,8 +28,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://instagram.com/atul.tiwariii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/atul.tiwariii" height="30" width="40" /></a>
-<a href="/https://atulcodingstuff.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://atulcodingstuff.blogspot.com" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/rii_shabh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/rii_shabh_" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
