@@ -7,15 +7,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atultiwaree" alt="atultiwaree" /></a> </p>
 
 
-<p align="left"> <img src="https://www.codewars.com/users/atultiwaree/badges/small?theme=light" alt="atultiwaree" /> </p>
+
 
 
 
 - 🔭 I’m currently working on **Next-js/react-js/react-native**
 
 - 🌱 I’m currently learning **Redux**
-
-- 📝 I regularly write articles on [atulcodingstuff.blogspot.com](atulcodingstuff.blogspot.com)
 
 - 💬 Ask me about **react | nodejs | javascript | python | c++ | c**
 
